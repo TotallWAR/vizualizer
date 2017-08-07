@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5A0769DA-25DA-A68D-BA58-6ED404CB536B}|Unit Tests" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShowGoods.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RabbitMQ/GetMQTrain.cs" Line="139" Column="20" />
+      <File FileName="Assets/Scripts/RabbitMQ/GetMQPlane.cs" Line="105" Column="1" />
+      <File FileName="Assets/Scripts/RabbitMQ/GetMQCar.cs" Line="71" Column="4" />
+      <File FileName="Assets/Scripts/InitPoints.cs" Line="134" Column="8" />
+      <File FileName="Assets/Scripts/ShowGoods.cs" Line="70" Column="24" />
+      <File FileName="Assets/Scripts/goodsLabel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/config.txt" Line="1" Column="1074" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aleksandrvadimovic/Dropbox/University/7_term/распределенные системы/Delivery/New Unity Project/Assets/ARToolKit5-Unity/Scripts/ARTrackedObject.cs" line="17" column="1" />
+      <Breakpoint file="/Users/aleksandrvadimovic/Dropbox/University/7_term/распределенные системы/Delivery/New Unity Project/Assets/RabbitMQ/GetMQ.cs" line="163" column="1" />
+      <Breakpoint file="/Users/aleksandrvadimovic/Dropbox/University/7_term/распределенные системы/Delivery/New Unity Project/Assets/RabbitMQ/GetMQ.cs" line="158" column="1" />
+      <Breakpoint file="/Users/aleksandrvadimovic/Dropbox/University/7_term/распределенные системы/Delivery/New Unity Project/Assets/RabbitMQ/GetMQ.cs" line="133" column="1" />
+      <Breakpoint file="/Users/aleksandrvadimovic/Dropbox/University/7_term/распределенные системы/Delivery/New Unity Project/Assets/RabbitMQ/GetMQ.cs" line="53" column="1" />
+      <Breakpoint file="/Users/aleksandrvadimovic/Dropbox/University/7_term/распределенные системы/Delivery/New Unity Project/Assets/Scripts/RabbitMQ/GetMQTrain.cs" line="103" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
